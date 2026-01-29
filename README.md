@@ -19,4 +19,4 @@
 - APIs & Databases
 
 ## Contact
-📧 Email: (add later)
+📧 Email: glenreycimanes@gmail.com
