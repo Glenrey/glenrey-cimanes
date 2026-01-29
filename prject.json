@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Binary Converter",
+    "category": "C Programming",
+    "description": "Optimized memory management tool for base conversion.",
+    "link": "https://github.com/yourname/binary",
+    "image": "images/project1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Neural Network",
+    "category": "Python AI",
+    "description": "Perceptron implementation for logic gate simulation.",
+    "link": "https://github.com/yourname/neural",
+    "image": "images/project2.jpg"
+  }
+]

@@ -1,22 +1,13 @@
-# Hi, I'm Glen Rey 👋
+# Glen Rey Cimanes - Portfolio
 
-🎓 Student Programmer  
-💻 Learning C and Python  
-🚀 Aspiring Software Developer
+This is my personal developer portfolio built with HTML, CSS, and Vanilla JS.
 
-## Skills
-- C (loops, functions, recursion)
-- Python (basics, logic building)
-- Problem solving
+## Features
+- Minimalist Swiss Design
+- Custom Logic-based Cursor
+- Scroll Reveal Animations
 
-## Projects
-- Number to Binary Converter (C)
-- Recursive Programs (C)
-- Simple Calculator (Python)
-
-## Currently Learning
-- Data Structures
-- APIs & Databases
-
-## Contact
-📧 Email: glenreycimanes@gmail.com
+## Tech Stack
+- HTML5
+- CSS3 (Variables, Flexbox, Grid)
+- JavaScript (Intersection Observer API)
